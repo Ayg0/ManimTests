@@ -1,7 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/home/orayne/projects/ManimTests/media/videos/l/480p15/partial_movie_files/Cirlewithregulator/4266129954_1843326832_223132457.mp4'
-file 'file:/home/orayne/projects/ManimTests/media/videos/l/480p15/partial_movie_files/Cirlewithregulator/1442284246_582517233_2918976213.mp4'
-file 'file:/home/orayne/projects/ManimTests/media/videos/l/480p15/partial_movie_files/Cirlewithregulator/1442284246_368757205_1883567254.mp4'
-file 'file:/home/orayne/projects/ManimTests/media/videos/l/480p15/partial_movie_files/Cirlewithregulator/1442284246_4170090574_4235585115.mp4'
-file 'file:/home/orayne/projects/ManimTests/media/videos/l/480p15/partial_movie_files/Cirlewithregulator/1442284246_434439515_686093516.mp4'
-file 'file:/home/orayne/projects/ManimTests/media/videos/l/480p15/partial_movie_files/Cirlewithregulator/1442284246_329969645_2288952921.mp4'
